@@ -10,10 +10,10 @@
 - CI/CD: AWS CodePipeline, GitHub Actions
 
 ### 🌍 Portfolio
-[Visit my portfolio website]: http://ivesportfolio.co.in.s3-website-us-east-1.amazonaws.com
+[Visit my portfolio website]: https://d2q5qqxjkq5rsl.cloudfront.net
 
 ### 💼 Projects
-- [Bus Ticketing Platform]: http://bus-ticketing-frontend-2.s3-website-us-east-1.amazonaws.com/
+- [Bus Ticketing Platform]: https://d3jso41a49lwpz.cloudfront.net
 
 ### 📫 Contact
 - [LinkedIn]: https://www.linkedin.com/in/fru-ivo-nde-02ab69389/
