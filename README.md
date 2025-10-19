@@ -21,7 +21,7 @@
 
 ### 💼 Projects
 - [Bus Ticketing Platform]: https://d3jso41a49lwpz.cloudfront.net
-- 🚌 Ives Travels – Serverless Bus Booking Platform
+- 🚌 Ives Travels – Serverless Bus Booking Platform: **Frontend:** [d21vgeeggf0a1d.cloudfront.net](https://d21vgeeggf0a1d.cloudfront.net)
 
 ### 📫 Contact
 - [LinkedIn]: https://www.linkedin.com/in/fru-ivo-nde-02ab69389/
