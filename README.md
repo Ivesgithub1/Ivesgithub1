@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fru Ivo N.
 
 🚀 **AWS Certified Developer Associate**  
-💻 **Full‑Stack Developer | Flutter • Node.js • AWS** |  Serverless Developer  |  Node.js  |  AWS  |  Payments Integration
+💻 **Serverless & Full‑Stack Developer | Node.js • AWS Lambda** | Cloud Native Applications | Payments Integration
 
 ### 🔧 Tech Stack
 
